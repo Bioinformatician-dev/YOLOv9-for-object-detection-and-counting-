@@ -14,8 +14,8 @@ Install Required Libraries: Make sure you have the necessary libraries installed
 Clone the YOLOv9 repository from GitHub or download the model weights.
 
 ```bash
-  git clone https://github.com/your-repo/yolov9.git
-cd yolov9
+ git clone https://github.com/your-repo/yolov9.git
+ cd yolov9
 ```
 
 ## Set Image Path
