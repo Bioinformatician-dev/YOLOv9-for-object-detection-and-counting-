@@ -24,7 +24,7 @@ Replace 'path/to/your/image.jpg' with the actual path to your image.
 
 ## Run the Script 
 
-Save the script as object_detection.py and run it:
+Save the script as obj_detection.py and run it:
 
 ```bash
  obj_detection.py
