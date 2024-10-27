@@ -2,7 +2,7 @@ import cv2
 import torch
 
 # Load the YOLOv9 model
-model = torch.hub.load('your-repo/yolov9', 'yolov9', pretrained=True)
+model = torch.hub.load('path of  model', 'yolov9', pretrained=True)
 
 # Load image
 image_path = 'path/to/your/image.jpg'
